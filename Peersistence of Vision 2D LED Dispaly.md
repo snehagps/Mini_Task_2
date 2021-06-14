@@ -1,4 +1,4 @@
-
+# Peersistence of Vision 2D LED Dispaly
 ## Problem Statement:
 The aim of this project is to create a 2 D display using fast rotating LEDs the concept of persistence of vision 
 
